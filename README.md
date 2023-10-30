@@ -71,10 +71,14 @@ start_urls = ['https://www.chrono24.com/patekphilippe/index.htm']  # Replace wit
 You can change the name of the output JSON file in the `FEEDS` setting. Open the spider's configuration file and update the `FEEDS` dictionary with your desired filename:
 
 ```python
-'output.json': {
-    'format': 'json',
-    'overwrite': True,
-},
+ custom_settings = {
+        'FEEDS': {
+            'ouput.json': {
+                'format': 'json',
+                'overwrite': True,
+            },
+        },
+    },
 ```
 
 Replace `'output.json'` with your preferred filename.
