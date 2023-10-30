@@ -1,0 +1,163 @@
+[
+    {
+        "watch_id": "26308931",
+        "watch_title": "A. Lange & Söhne 1815",
+        "watch_price": "25950",
+        "watch_details": {
+            "Basic Info": {
+                "Listing code": "FNW3N4",
+                "Reference number": "256.021",
+                "Dealer product code": "4679023",
+                "Movement": "Manual winding",
+                "Case material": "Yellow gold",
+                "Bracelet material": "Yellow gold",
+                "Year of production": "Unknown",
+                "Gender": "Men's watch/Unisex",
+                "Location": "United States of America, Pennsylvania",
+                "Price": "$25,950",
+                "Availability": "Item is in stock"
+            },
+            "Caliber": {
+                "Movement": "Manual winding"
+            },
+            "Case": {
+                "Case material": "Yellow gold",
+                "Water resistance": "5 ATM",
+                "Dial": "Silver",
+                "Dial numerals": "Arabic numerals"
+            },
+            "Bracelet/strap": {
+                "Bracelet material": "Yellow gold",
+                "Bracelet color": "Yellow",
+                "Bracelet length": "184 mm",
+                "Clasp": "Buckle"
+            }
+        }
+    },
+    {
+        "watch_id": "31051314",
+        "watch_title": "A. Lange & Söhne Richard Lange",
+        "watch_price": "23900",
+        "watch_details": {
+            "Basic Info": {
+                "Listing code": "IHJCI3",
+                "Dealer product code": "49639",
+                "Movement": "Manual winding",
+                "Case material": "Rose gold",
+                "Year of production": "Unknown",
+                "Gender": "Men's watch/Unisex",
+                "Location": "United States of America, Massachusetts, Boston",
+                "Price": "$23,900 [Negotiable]",
+                "Availability": "Item is in stock"
+            },
+            "Caliber": {
+                "Movement": "Manual winding"
+            },
+            "Case": {
+                "Case material": "Rose gold",
+                "Thickness": "10.5 mm",
+                "Crystal": "Sapphire crystal",
+                "Dial numerals": "Roman numerals"
+            }
+        }
+    },
+    {
+        "watch_id": "28350074",
+        "watch_title": "A. Lange & Söhne Datograph",
+        "watch_price": "79950",
+        "watch_details": {
+            "Basic Info": {
+                "Listing code": "GVN222",
+                "Dealer product code": "4759833",
+                "Movement": "Manual winding",
+                "Case material": "Platinum",
+                "Year of production": "Unknown",
+                "Gender": "Men's watch/Unisex",
+                "Location": "United States of America, Pennsylvania",
+                "Price": "$79,950",
+                "Availability": "Item is in stock"
+            },
+            "Caliber": {
+                "Movement": "Manual winding",
+                "Power reserve": "60 h"
+            },
+            "Case": {
+                "Case material": "Platinum",
+                "Water resistance": "3 ATM",
+                "Crystal": "Sapphire crystal",
+                "Dial": "Black",
+                "Dial numerals": "No numerals"
+            },
+            "Bracelet/strap": {
+                "Bracelet color": "Black",
+                "Clasp": "Buckle"
+            }
+        }
+    },
+    {
+        "watch_id": "28957413",
+        "watch_title": "A. Lange & Söhne Datograph",
+        "watch_price": "89900",
+        "watch_details": {
+            "Basic Info": {
+                "Listing code": "H8NOL5",
+                "Movement": "Manual winding",
+                "Case material": "Rose gold",
+                "Bracelet material": "Red gold",
+                "Year of production": "2006",
+                "Gender": "Men's watch/Unisex",
+                "Location": "United States of America, Massachusetts, Swansea",
+                "Price": "$89,900 [Negotiable]",
+                "Availability": "Item is in stock"
+            },
+            "Caliber": {
+                "Movement": "Manual winding",
+                "Movement/Caliber": "Movement # 47490",
+                "Power reserve": "36 h",
+                "Number of jewels": "40"
+            },
+            "Case": {
+                "Case material": "Rose gold",
+                "Water resistance": "3 ATM",
+                "Bezel material": "Rose gold",
+                "Crystal": "Sapphire crystal",
+                "Dial": "Silver",
+                "Dial numerals": "Roman numerals"
+            },
+            "Bracelet/strap": {
+                "Bracelet material": "Red gold",
+                "Bracelet color": "Gold",
+                "Clasp": "Double-fold clasp",
+                "Clasp material": "Rose Gold"
+            }
+        }
+    },
+    {
+        "watch_id": "26964049",
+        "watch_title": "A. Lange & Söhne Lange 1",
+        "watch_price": "215000",
+        "watch_details": {
+            "Basic Info": {
+                "Listing code": "G1XLD5",
+                "Dealer product code": "13027",
+                "Movement": "Automatic",
+                "Case material": "Platinum",
+                "Year of production": "2014",
+                "Gender": "Men's watch/Unisex",
+                "Location": "United States of America, Texas, Houston",
+                "Price": "$215,000",
+                "Availability": "Item is in stock"
+            },
+            "Caliber": {
+                "Movement": "Automatic"
+            },
+            "Case": {
+                "Case material": "Platinum",
+                "Water resistance": "Not water resistant",
+                "Crystal": "Sapphire crystal",
+                "Dial": "Silver",
+                "Dial numerals": "Roman numerals"
+            }
+        }
+    }
+]
